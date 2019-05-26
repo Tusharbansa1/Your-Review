@@ -11,12 +11,10 @@ you creatively focus on your project by minimizing the amount of code needed
 for a given task.
 
 *******************
-Release Information
+What is this about
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+Here you ca visit the website and write your review about the book or movie that you like or  have seen earlier.
 
 **************************
 Changelog and New Features
@@ -38,16 +36,12 @@ issues, as well as missing features.
 ************
 Installation
 ************
+Set up lamp or xamp in your pc.
+Just clone the project. 
+change the setting as per the database.
+Go to browser and visit localhost/codeigniter. 
 
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+.
 
 *********
 Resources
